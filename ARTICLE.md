@@ -10,3 +10,6 @@ What I find particularly interesting about this article is how practical and tim
 
 ### Proof Reading
 Article checked for typos.
+
+## Article comment by Uditi Sharma
+This is such a cool article!! thanks for sharing it with us! I will try implementing the twelve factor app in my next personal project!! 😁😁
